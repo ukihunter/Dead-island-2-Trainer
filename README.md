@@ -1,5 +1,7 @@
 # Dead Island 2 Trainer
 
+![](demo.jpg)
+
 A simple Windows Forms application (C#, .NET Framework 4.7.2) for enabling cheats in **Dead Island 2** (64-bit version). This trainer allows you to toggle various in-game features such as God Mode, infinite weapon durability, stamina, and money by directly patching the game's memory.
 
 ## Features
